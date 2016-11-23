@@ -17,6 +17,8 @@
 
 #### Rails
 * [BinBinary Rails 5 Series](http://blog.bigbinary.com/categories/Rails-5)
+* [Rails Best Practice Gem](https://github.com/railsbp/rails_best_practices) - Scan code for Rails Best Practices
+* [Rails SQLI](http://rails-sqli.org/): Rails SQL injection guide, what not to do.
 
 #### Usefule Ruby Gems 
 * [Rubocop](https://github.com/bbatsov/rubocop): A Ruby static code analyzer
