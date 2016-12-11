@@ -20,4 +20,6 @@
 * Water holing
 * [Pass the Hash](https://en.wikipedia.org/wiki/Pass_the_hash)
 * SQL Injection
-
+* Cross Site Request Forgery (CSRF)
+* Session Hijacking
+* Cross Site Scripting
