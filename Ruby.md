@@ -7,16 +7,20 @@
 * [Ruby Cookbook](https://www.safaribooksonline.com/library/view/ruby-cookbook/0596523696/)
 
 #### Best Practices
-
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+* [Best Ruby](http://best-ruby.com/)
+* [Reek](https://github.com/troessner/reek) - Detect Code Smells
+
 
 #### Testing
+* [Better Specs](http://betterspecs.org/)
 
 #### Rails
 * [BinBinary Rails 5 Series](http://blog.bigbinary.com/categories/Rails-5)
+* [Rails Best Practice Gem](https://github.com/railsbp/rails_best_practices) - Scan code for Rails Best Practices
+* [Rails SQLI](http://rails-sqli.org/): Rails SQL injection guide, what not to do.
 
 #### Usefule Ruby Gems 
-
 * [Rubocop](https://github.com/bbatsov/rubocop): A Ruby static code analyzer
 * [Rails Composer](https://github.com/RailsApps/rails-composer): A better rails generator with rails app.
 * [Rails App Composer](https://github.com/RailsApps/rails_apps_composer): Create Rails application templates for Rails starter apps.

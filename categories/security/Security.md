@@ -14,7 +14,6 @@
 #### Great tools
 * [U2F](https://www.yubico.com/applications/fido/): New multi factor authentication brought by Google
 
-
 #### Standard Attacks
 * Spear Phishing
 * Water holing
@@ -23,3 +22,7 @@
 * Cross Site Request Forgery (CSRF)
 * Session Hijacking
 * Cross Site Scripting
+
+#### Things to remember
+* Security is not compositional
+
