@@ -21,3 +21,7 @@ List of important references and resources.
 
 ### Rails
 * [Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
+
+### Screen Casts
+* [Destroy all software - screencast about tools built from scratch](https://www.destroyallsoftware.com/screencasts)
+* [Build your own X](https://github.com/danistefanovic/build-your-own-x* Build your own X)
