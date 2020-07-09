@@ -1,4 +1,5 @@
 - Design
+* [whimsical - Mindmaps, communicate visually](https://whimsical.com)
 * Sketch
 * Marvel
 * Zeplin
